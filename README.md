@@ -11,6 +11,6 @@
 - threading
  
  |reference material|
- |---:|
+ |:---|
  |Data Communication and Networking by Forouzan|
  |NeuralNine Networking(bit.ly/33RL1mc)|
