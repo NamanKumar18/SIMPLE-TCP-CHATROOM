@@ -19,4 +19,4 @@
  |Reference Material|
  |:---:|
  |Data Communication and Networking(Forouzan)|
- |NeuralNine Networking [yt playlist](bit.ly/33RL1mc)|
+ |NeuralNine Networking [](bit.ly/33RL1mc)|
